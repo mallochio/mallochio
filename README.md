@@ -1,8 +1,6 @@
-# Hi, I'm Sid 👋
-
 ## Machine Learning Researcher | Privacy-Preserving AI | Computer Vision
 
-I'm currently completing my PhD at University of Alicante as a Marie Skłodowska-Curie scholar.
+I'm currently completing my PhD in Computer Science as a Marie Skłodowska-Curie scholar.
 
 ### Current Research Focus:
 - 🔒 Privacy-preserving computer vision techniques
