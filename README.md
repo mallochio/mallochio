@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi, I'm Sid 👋
 
 ## Machine Learning Researcher | Privacy-Preserving AI | Computer Vision
 
