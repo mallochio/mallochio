@@ -1,4 +1,16 @@
 ### Hi there 👋
+
+## Machine Learning Researcher | Privacy-Preserving AI | Computer Vision
+
+I'm currently completing my PhD at University of Alicante as a Marie Skłodowska-Curie scholar.
+
+### Current Research Focus:
+- 🔒 Privacy-preserving computer vision techniques
+- 🧠 Interpretable machine learning models
+- 🤖 Multimodal foundation models
+- ⚖️ Fairness and ethical considerations in AI
+
+
 <!-- 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mallochio)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mallochio&layout=compact)
