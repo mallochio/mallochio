@@ -3,11 +3,10 @@
 I'm currently completing my PhD in Computer Science as a Marie Skłodowska-Curie scholar.
 
 ### Research Interests:
-- 🔒 Privacy-preserving computer vision techniques
-- 🧠 Interpretable machine learning models
-- 🤖 Multimodal foundation models
-- ⚖️ Fairness and ethical considerations in AI
-- 🧓 Active and Assisted Living
+- Privacy-preserving computer vision techniques
+- Interpretable machine learning models
+- Fairness and ethical considerations in AI
+- Active and Assisted Living
 
 
 <!-- 
