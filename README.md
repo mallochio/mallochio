@@ -1,13 +1,4 @@
-## Machine Learning Researcher | Privacy-Preserving AI | Computer Vision
-
-I'm currently completing my PhD in Computer Science as a Marie Skłodowska-Curie scholar.
-
-### Research Interests:
-- Privacy-preserving computer vision techniques
-- Interpretable machine learning models
-- Fairness and ethical considerations in AI
-- Active and Assisted Living
-
+Hi! I'm a Marie Skłodowska-Curie Ph.D scholar in Computer Science.
 
 <!-- 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mallochio)
